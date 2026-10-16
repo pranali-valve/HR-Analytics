@@ -1,5 +1,8 @@
 # 📊 HR Analytics Dashboard
 
+![HR Analytics Dashboard](Dashboard.png)
+
+
 ## 📌 Project Overview
 The HR Analytics Dashboard provides insights into employee data, attrition trends, workforce demographics, and job satisfaction to help HR teams make data-driven decisions.
 
@@ -34,8 +37,6 @@ To identify employee attrition patterns, understand workforce demographics, eval
 - Active Employees: 1,233
 - Average Age: 37 years
 
-## 🖼️ Dashboard Preview
-![HR Analytics Dashboard](Dashboard.png)
-
 ## 👩‍💻 Author
-Created as an HR Analytics project to demonstrate data analysis and dashboard visualization skills.
+**Pranali Valve**
+- Created as an HR Analytics project to demonstrate data analysis and dashboard visualization skills.
